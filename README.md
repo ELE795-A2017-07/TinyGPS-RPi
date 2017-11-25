@@ -1,1 +1,1 @@
-Port of V.KEY-GPS to RPi
+Port of TinyGPS to RPi
